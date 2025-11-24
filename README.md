@@ -1,4 +1,4 @@
-# Experimental-verification-of-frequency-response-of-Digital-fiber-optic-link-exp-5
+# Experimental-verification-of-frequency-response-of-Digital-fiber-optic-link-exp-5 
 # AIM:
 To study an 660nm & 950nm Fiber Optic Digital Link. Here you will study how digital Signal can be 
 transmitted over Fiber Cable & reproduced at the receiver end.
